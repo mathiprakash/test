@@ -8,8 +8,9 @@
 # as a template to start your own projects.
 #
 # -----------------------------------------------------------------------------
-#import shutil
-#from pathlib import Path
+# No need to import any libraries
+# This is taken care by the pip install
+# Also add an additional comment
 
 from tableauhyperapi import HyperProcess, Telemetry, \
     Connection, CreateMode, \
